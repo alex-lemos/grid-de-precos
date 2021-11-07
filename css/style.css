@@ -1,0 +1,19 @@
+.padding{
+    padding: 30px;
+}
+
+.container{
+    margin: 100px;
+}
+
+.container__top{
+    background-color: blue;
+}
+
+.container__bottom-left{
+    background-color: red;
+}
+
+.container__bottom-right{
+    background-color: green;
+}
